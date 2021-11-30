@@ -13,7 +13,7 @@ Et avec un retour à la ligne avec saut de ligne.
 Source pour [mkdocs-material](https://squidfunk.github.io/mkdocs-material/)
 
 ## Une image :
-![illustration mkdocs-material](https://squidfunk.github.io/mkdocs-material/assets/images/illustration.png)
+![illustration mkdocs-material](https://squidfunk.github.io/mkdocs-material/assets/images/photo hugo.png)
 
 ## Liste (non exosteeve) des meilleurs de la classe :
 - 1er Rob'zer 😀
