@@ -40,9 +40,9 @@ theme:
     palette: 
       - scheme: default # nom du thème clair
         primary: brown # couleur primaire des titres, des liens, ..., à prendre dans la liste
-        accent: amber # couleur d'accentuation au survol des boutons, desliens, ..., à prendre dans la liste
+        accent: purple # couleur d'accentuation au survol des boutons, desliens, ..., à prendre dans la liste
         toggle: # définition du bouton pour switcher de palette
-          icon: material/weather-sunny # apparence
+          icon: material/weather-rain # apparence
           name: Basculer en mode sombre # message
       - scheme: slate # nom du thème sombre
         primary: amber
